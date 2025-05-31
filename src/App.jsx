@@ -8,12 +8,11 @@ import Home from './pages/Home'
 import Vault from './pages/Vault'
 import Contact from './pages/Contact'
 import About from './pages/About'
-import { Analytics } from "@vercel/analytics/react"
+
 function App() {
   return (
     
     <Router>
-      <Analytics />
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
