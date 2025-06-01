@@ -29,8 +29,8 @@ const About = () => {
               <div className="w-full md:w-1/2 text-center md:text-left">
                 <h2 className="text-5xl mb-6 font-bold pp text-orange-500" >Sudhanshu Tiwari</h2>
                 <div className="space-y-4 text-white pp ">
-                  <p>1
-                    As11 a fresh face in the tech industry, my journey at the Kanpur Institute of Technology has been transformative, instilling in me a strong foundation in Computer Science and a passion for technology that I actively apply as a Campus Ambassador and Contributor at GirlScript. With a focus on collaboration and innovation, my contributions center around leveraging my skills in Postman API and the MERN stack to drive community growth and learning.
+                  <p>I
+                    As a fresh face in the tech industry, my journey at the Kanpur Institute of Technology has been transformative, instilling in me a strong foundation in Computer Science and a passion for technology that I actively apply as a Campus Ambassador and Contributor at GirlScript. With a focus on collaboration and innovation, my contributions center around leveraging my skills in Postman API and the MERN stack to drive community growth and learning.
 
                   </p>
                   <p>
@@ -95,12 +95,12 @@ const About = () => {
                 {[
                   {
                     title: "Leetcode",
-                    description: "281+ problems solved",
+                    description: "285 problems solved",
                     icon: <img src='https://leetcode.com/favicon.ico' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
                     title: "GeeksforGeeks",
-                    description: "72+ problems solved",
+                    description: "75+ problems solved",
                     icon: <img src='images/gfg.png' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
