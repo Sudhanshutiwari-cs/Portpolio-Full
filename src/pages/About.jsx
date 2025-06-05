@@ -100,7 +100,7 @@ const About = () => {
                   },
                   {
                     title: "GeeksforGeeks",
-                    description: "87 problems solved",
+                    description: "92 problems solved",
                     icon: <img src='images/gfg.png' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
