@@ -95,12 +95,12 @@ const About = () => {
                 {[
                   {
                     title: "Leetcode",
-                    description: "287 problems solved",
+                    description: "292 problems solved",
                     icon: <img src='https://leetcode.com/favicon.ico' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
                     title: "GeeksforGeeks",
-                    description: "92 problems solved",
+                    description: "99 problems solved",
                     icon: <img src='images/gfg.png' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
