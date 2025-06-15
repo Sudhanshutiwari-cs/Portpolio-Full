@@ -111,7 +111,7 @@ const About = () => {
                   {
                     title: "Coding Ninjas",
                     description: "64 problems solved",
-                    icon: <img src='https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg' width='35' height='35' alt='Leetcode icon' />
+                    icon: <img src='images/coding.png' width='35' height='35' alt='Leetcode icon' />
                   }
                 ].map((value, index) => (
                   <div key={index} className="bg-white p-6 pp rounded-xl shadow-sm hover:shadow-md transition-shadow max-w-xs w-full">
