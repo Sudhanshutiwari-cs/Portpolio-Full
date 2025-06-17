@@ -100,7 +100,7 @@ const About = () => {
                   },
                   {
                     title: "GeeksforGeeks",
-                    description: "132 problems solved",
+                    description: "135 problems solved",
                     icon: <img src='images/gfg.png' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
@@ -110,7 +110,7 @@ const About = () => {
                   },
                   {
                     title: "Coding Ninjas",
-                    description: "64 problems solved",
+                    description: "65 problems solved",
                     icon: <img src='images/coding.png' width='35' height='35' alt='Leetcode icon' />
                   }
                 ].map((value, index) => (
