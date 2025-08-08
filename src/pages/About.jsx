@@ -95,12 +95,12 @@ const About = () => {
                 {[
                   {
                     title: "Leetcode",
-                    description: "342 problems solved",
+                    description: "343 problems solved",
                     icon: <img src='https://leetcode.com/favicon.ico' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
                     title: "GeeksforGeeks",
-                    description: "191 problems solved",
+                    description: "214 problems solved",
                     icon: <img src='images/gfg.png' width='35' height='35' alt='Leetcode icon' />
                   },
                   {
@@ -110,7 +110,7 @@ const About = () => {
                   },
                   {
                     title: "Coding Ninjas",
-                    description: "122 problems solved",
+                    description: "164 problems solved",
                     icon: <img src='images/coding.png' width='35' height='35' alt='Leetcode icon' />
                   }
                 ].map((value, index) => (
